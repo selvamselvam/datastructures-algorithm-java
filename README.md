@@ -1,5 +1,9 @@
-DataStructureAlgorithm
-======================
+# Data structures and algorithms interview questions
+
+Data Structures and Algorithm Interview Questions for Java Programmers.
+
+- Import code to IDE
+- Articles in careerdrill.com
 
 Interview Data Structure Algorithm problems
 
@@ -9,71 +13,74 @@ This repositry contain the following datastructure and algorithm source code. It
 
 [Searching](https://www.careerdrill.com/category/fundamentals/algorithm/searching/)
 =========
-BinarySearch
+- BinarySearch
+- Linear Search
 
-Linear Search
-
-
-Array
+[Array](https://www.careerdrill.com/category/fundamentals/data-structure/array/)
 ======
-Insert, Delete, etc
+- Insert, Delete, etc
+- Integer to string
+- Edit distance
+- Merge Sorted using Array
+- Three sum from array
+- Two sum from array
+- Median of two sorted array
+- Word Break in Java
 
-Sorting
+[Sorting](https://www.careerdrill.com/category/fundamentals/algorithm/sorting/)
 =======
-QuickSort
+- QuickSort
+- Most Significant Digit (MSD) radix sort
+- Least Significant Digit (LSD) radix sort
+- Min-heap priority queue
+- Exchange Sort
+- Shell Sort
+- Selection sort
+- Bucket sort
+- Radix sort
 
 
-HashTable
+[HashTable](https://www.careerdrill.com/category/fundamentals/data-structure/hashtable/)
 =========
-HashTable
+- HashTable
 
 
-LinkedList
+[LinkedList](https://www.careerdrill.com/category/fundamentals/data-structure/linked-list/)
 =========
-Linked List
-
-CircularLinkedList
-
-DoublyLinkedList
-
-SingleLinkedList
+- Linked List
+- CircularLinkedList
+- DoublyLinkedList
+- SingleLinkedList
 
 
-Queue
+[Queue](https://www.careerdrill.com/category/fundamentals/data-structure/queue/)
 =====
-QueueArray
+- QueueArray
 
-Stack
+[Stack](https://www.careerdrill.com/category/fundamentals/data-structure/stack/)
 =====
-Binary to Decimal
+- Binary to Decimal
+- Check Palindrome
+- Postfix to Infix
+- Recursive Factorial
+- Reversing
+- Stack
 
-Check Palindrome
-
-Postfix to Infix
-
-Recursive Factorial
-
-Reversing
-
-Stack
-
-Binary Tree
+[Binary Tree](https://www.careerdrill.com/category/fundamentals/data-structure/tree/)
 ==========
-BinaryTree
-
-RedBlackTree
-
-PrefixTree (Trie)
+- BinaryTree
+- RedBlackTree
+- PrefixTree (Trie)
 
 [Interview](https://www.careerdrill.com/category/fundamentals/coding-interview/)
 =========
 
 Common Google/Facebook/Microsoft/Amazon coding interview questions
 
-#Fibonacci
-#LinkedListMiddle element
-#Find Llinkedlist loop
-#Check Palindrome
-#BigOrLittle Endien
-#ReverseString
-#Swapping
+- Fibonacci
+- LinkedListMiddle element
+- Find Llinkedlist loop
+- Check Palindrome
+- BigOrLittle Endien
+- ReverseString
+- Swapping
