@@ -65,18 +65,15 @@ RedBlackTree
 
 PrefixTree (Trie)
 
-Interview 
+[Interview](https://www.careerdrill.com/category/fundamentals/coding-interview/)
 =========
-Fibonacci
 
-LinkedListMiddle element
+Common Google/Facebook/Microsoft/Amazon coding interview questions
 
-Find Llinkedlist loop
-
-Check Palindrome
-
-BigOrLittle Endien
-
-ReverseString
-
-Swapping
+#Fibonacci
+#LinkedListMiddle element
+#Find Llinkedlist loop
+#Check Palindrome
+#BigOrLittle Endien
+#ReverseString
+#Swapping
