@@ -7,7 +7,7 @@ Interview Data Structure Algorithm problems
 This repositry contain the following datastructure and algorithm source code. It help to prepare the interview.
 
 
-Searching
+[Searching](https://www.careerdrill.com/category/fundamentals/algorithm/searching/)
 =========
 BinarySearch
 
